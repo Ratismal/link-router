@@ -8,6 +8,15 @@ For work, I often have to use different browsers to test on. I got tired of copy
 
 I'm lazy.
 
+## Usage
+
+```
+npm install
+node index.js
+```
+
+For best results, `index.js` should be run at startup.
+
 ## How does it work?
 
 This works in two parts
