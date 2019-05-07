@@ -40,7 +40,7 @@ Passes the provided `url` to the route with the given `:name`.
 
 ## Configuration
 
-```json
+```jsonc
 {
     "port": 9102, // you probably shouldn't change this, 'cuz the extension isn't configurable yet*!
     "command": "open -na %s \"%s\"", // the command to run. the first %s is substituted with the route, the second is substituted with the url
