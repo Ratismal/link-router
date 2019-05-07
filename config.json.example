@@ -1,0 +1,10 @@
+{
+    "port": 9102,
+    "command": "open -na %s \"%s\"",
+    "routes": {
+        "vivaldi": "vivaldi",
+        "chromium": "chromium",
+        "incognito": "\"google chrome\" --args --incognito",
+        "safari": "safari"
+    }
+}
