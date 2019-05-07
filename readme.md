@@ -17,6 +17,10 @@ node index.js
 
 For best results, `index.js` should be run at startup.
 
+## Extension Usage
+
+Right click a link, go to the "Link Router" menu, and select your preferred destination.
+
 ## How does it work?
 
 This works in two parts
